@@ -1,5 +1,6 @@
 body{
   background: #efdecd;
+  font-family: 'Marck Script', cursive;
 }
 
 header {
@@ -13,4 +14,8 @@ header {
   width: 1200px;
   border: 2 px solid red;
   border-radius: 5px;
+}
+
+header h1 {
+  text-shadow: 2px 2px 4px red;
 }
