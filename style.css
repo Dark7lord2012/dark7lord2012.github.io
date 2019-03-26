@@ -1,10 +1,13 @@
 body{
-  background: grey;
+  background: #efdecd;
 }
 
 header {
   display: flex;
+  flex-direction: column;
   justufy-content: center;
+  margin: 0 auto;
+  padding: 10px 15px;
   background: white;
   box-sizing: border-box;
   width: 1200px;
