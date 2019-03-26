@@ -1,7 +1,6 @@
 body{
   background: #efdecd;
   font-family: 'Marck Script', cursive;
-   box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 
 header {
@@ -13,9 +12,9 @@ header {
   background: white;
   box-sizing: border-box;
   width: 1200px;
-  border: 2 px solid red;
+  border: 2px solid red;
   border-radius: 5px;
-  box-sho
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 
 header h1 {
