@@ -1,1 +1,13 @@
-body{color:red;}
+body{
+  background: grey;
+}
+
+header {
+  display: flex;
+  justufy-content: center;
+  background: white;
+  box-sizing: border-box;
+  width: 1200px;
+  border: 2 px solid red;
+  border-radius: 5px;
+}
